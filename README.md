@@ -3,6 +3,9 @@ SpeechTherapyAI is a web application designed to assist children with speech dis
 
 Features:
 Voice Analysis: Analyze the student's voice and compare it with standard pronunciation.
+
 Daily Exercises: Provide personalized daily speech exercises based on progress.
+
 Progress Dashboard: Track the student's progress over time.
+
 Gamified Learning: Engage students with interactive games that reward correct pronunciation.
